@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Cisco Packet Tracer and practicing on TryHackMe**
 
-- 👨‍💻TryHackme [Completed various hands-on cybersecurity labs and CTF-style challenges on TryHackMe.](<img src="https://tryhackme-badges.s3.amazonaws.com/mamkaskill942.png" alt="Your Image Badge" />)
+- 👨‍💻TryHackme [<img src="https://tryhackme-badges.s3.amazonaws.com/mamkaskill942.png" alt="Your Image Badge" />](<img src="https://tryhackme-badges.s3.amazonaws.com/mamkaskill942.png" alt="Your Image Badge" />)
 
 - 🤝 I’m looking for help with **Experience in real jobs, in actual companies**
 
