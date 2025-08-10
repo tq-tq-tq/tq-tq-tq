@@ -5,8 +5,6 @@
 
 - 🌱 I'm currently learning **Cisco Packet Tracer and practicing on TryHackMe**
 
-- 👨‍💻TryHackme [<img src="https://tryhackme-badges.s3.amazonaws.com/mamkaskill942.png" alt="Your Image Badge" />](<img src="https://tryhackme-badges.s3.amazonaws.com/mamkaskill942.png" alt="Your Image Badge" />)
-
 - 🤝 I’m looking for help with **Experience in real jobs, in actual companies**
 
 <h3 align="left">Connect with me:</h3>
